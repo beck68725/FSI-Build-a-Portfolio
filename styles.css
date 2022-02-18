@@ -1,0 +1,18 @@
+body {background-color: antiquewhite;
+    color: blueviolet;
+    border-style: ridge;
+    border-color: black;
+    border-radius: 2em;
+    cursor:crosshair;
+}
+h1 {color: black;
+font-size: xx-large;
+text-align: center;
+}
+h2 {color: coral;
+}
+p {background-color: aqua;
+border-style: dashed;
+border-color: black;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
