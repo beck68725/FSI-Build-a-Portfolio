@@ -13,6 +13,11 @@ h2 {color: coral;
 }
 p {background-color: aqua;
 border-style: dashed;
-border-color: black;
+border-color: rosybrown;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img {
+    border-radius: 2em;
+    height: 250px;
+    width: 450px;
 }
